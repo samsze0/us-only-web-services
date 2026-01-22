@@ -1,0 +1,122 @@
+# AI Services with Region Restrictions
+
+payload:
+  # OpenAI / ChatGPT
+  - +.openai.com
+  - +.chatgpt.com
+  - +.oaistatic.com
+  - +.oaiusercontent.com
+  - +.openaiapi.com
+  - +.openaiapi-site.azureedge.net
+  - +.sentry.io
+
+  # Anthropic / Claude
+  - +.anthropic.com
+  - +.claude.ai
+
+  # Google AI / Gemini / Bard
+  - +.gemini.google.com
+  - +.bard.google.com
+  - +.generativelanguage.googleapis.com
+  - +.ai.google.dev
+  - +.aistudio.google.com
+  - +.makersuite.google.com
+  - +.deepmind.com
+  - +.deepmind.google
+
+  # Perplexity
+  - +.perplexity.ai
+
+  # Midjourney
+  - +.midjourney.com
+
+  # Stability AI / Stable Diffusion
+  - +.stability.ai
+  - +.stabilityai.com
+
+  # Hugging Face
+  - +.huggingface.co
+  - +.hf.co
+
+  # Cohere
+  - +.cohere.ai
+  - +.cohere.com
+
+  # Runway
+  - +.runwayml.com
+  - +.runway.com
+
+  # Poe (Quora)
+  - +.poe.com
+
+  # Character.AI
+  - +.character.ai
+  - +.characterai.com
+
+  # Inflection / Pi
+  - +.inflection.ai
+  - +.pi.ai
+
+  # Mistral
+  - +.mistral.ai
+
+  # Groq
+  - +.groq.com
+
+  # Together AI
+  - +.together.ai
+  - +.together.xyz
+
+  # Replicate
+  - +.replicate.com
+
+  # Jasper
+  - +.jasper.ai
+
+  # Copy.ai
+  - +.copy.ai
+
+  # Writesonic
+  - +.writesonic.com
+
+  # Notion AI (Notion itself)
+  - +.notion.so
+  - +.notion.site
+
+  # GitHub Copilot
+  - +.copilot.github.com
+  - +.githubcopilot.com
+
+  # Cursor
+  - +.cursor.sh
+  - +.cursor.com
+
+  # Codeium
+  - +.codeium.com
+
+  # Replit AI
+  - +.replit.com
+
+  # v0 (Vercel)
+  - +.v0.dev
+
+  # Suno (AI Music)
+  - +.suno.ai
+  - +.suno.com
+
+  # ElevenLabs (AI Voice)
+  - +.elevenlabs.io
+
+  # Udio (AI Music)
+  - +.udio.com
+
+  # DALL-E (covered by OpenAI)
+
+  # Leonardo AI
+  - +.leonardo.ai
+
+  # Ideogram
+  - +.ideogram.ai
+
+  # Flux / Black Forest Labs
+  - +.blackforestlabs.ai
