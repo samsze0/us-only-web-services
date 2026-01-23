@@ -13,6 +13,7 @@ payload:
   # Anthropic / Claude
   - +.anthropic.com
   - +.claude.ai
+  - +.claude.com
 
   # Google AI / Gemini / Bard
   - +.gemini.google.com
