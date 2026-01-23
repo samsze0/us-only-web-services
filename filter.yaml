@@ -46,9 +46,6 @@ payload:
   - +.runwayml.com
   - +.runway.com
 
-  # Poe (Quora)
-  - +.poe.com
-
   # Character.AI
   - +.character.ai
   - +.characterai.com
@@ -82,14 +79,6 @@ payload:
   # Notion AI (Notion itself)
   - +.notion.so
   - +.notion.site
-
-  # GitHub Copilot
-  - +.copilot.github.com
-  - +.githubcopilot.com
-
-  # Cursor
-  - +.cursor.sh
-  - +.cursor.com
 
   # Codeium
   - +.codeium.com
