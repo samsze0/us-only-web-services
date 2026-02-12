@@ -24,6 +24,7 @@ payload:
   - +.makersuite.google.com
   - +.deepmind.com
   - +.deepmind.google
+  - +.notebooklm.google.com
 
   # Perplexity
   - +.perplexity.ai
