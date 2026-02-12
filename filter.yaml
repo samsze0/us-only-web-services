@@ -17,7 +17,9 @@ payload:
 
   # Google AI / Gemini / Bard
   - +.gemini.google.com
+  - +.gemini.google
   - +.bard.google.com
+  - +.bard.google
   - +.generativelanguage.googleapis.com
   - +.ai.google.dev
   - +.aistudio.google.com
