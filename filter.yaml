@@ -25,6 +25,7 @@ payload:
   - +.deepmind.com
   - +.deepmind.google
   - +.notebooklm.google.com
+  - +.notebooklm.google
 
   # Perplexity
   - +.perplexity.ai
