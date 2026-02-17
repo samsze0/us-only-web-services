@@ -28,6 +28,23 @@ payload:
   - +.deepmind.google
   - +.notebooklm.google.com
   - +.notebooklm.google
+  - +.labs.google
+  - +.labs.google.com
+  - +.aisandbox-pa.googleapis.com
+  - +.opal.google
+  - +.opal.google.com
+  - +.antigravity-pa.googleapis.com
+  - +.antigravity.googleapis.com
+  - +.antigravity.google
+  - +.antigravity-unleash.goog
+  - +.ai.studio
+  - +.alkalicore-pa.clients6.google.com
+  - +.alkalimakersuite-pa.clients6.google.com
+  - +.webchannel-alkalimakersuite-pa.clients6.google.com
+  - +.generativeai.google
+  - +.geller-pa.googleapis.com
+  - +.proactivebackend-pa.googleapis.com
+  - +.robinfrontend-pa.googleapis.com
 
   # Perplexity
   - +.perplexity.ai
